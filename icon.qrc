@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add_event.png</file>
+        <file>icons/edit_color.png</file>
+        <file>icons/next.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/see_file.png</file>
+        <file>icons/pin.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/no_drag.png</file>
+        <file>icons/drag.png</file>
+        <file>icons/export.png</file>
+        <file>icons/import.png</file>
+    </qresource>
+</RCC>
